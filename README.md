@@ -1,12 +1,12 @@
 **Project Title**
 Automation Testing using Selenium for UI of a web application built with Spring Boot and Flutter Web, with PostgreSQL as the database.
 
-**Table of Contents**
-•	-Introduction
-•	-Testing
-•	-Videos
-•	-Issues
-•	-Previous work
+**Table of Contents**  
+•	Introduction  
+•	Testing  
+•	Videos  
+•	Issues  
+•	Previous work  
 
 **Introduction**
     The aim of this project is to do automated testing for web application using Selenium WebDriver. 
